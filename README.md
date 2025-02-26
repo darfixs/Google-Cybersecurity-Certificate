@@ -1,7 +1,7 @@
 # ✅ Google Cybersecurity Certificate Support 
 
 Welcome to the Google Cybersecurity Certificate Repository! 🎉  
-This repository gathers study materials for the Google Cybersecurity Professional Certificate program. It includes official summaries, personal notes, schemas, and additional resources—all organized by course—to help you master the content and prepare for a career in cybersecurity.
+This repository gathers study materials for the Google Cybersecurity Professional Certificate program. It includes official summaries, personal notes, schemas, and additional resources—all organized by course—to help you master the content and prepare for [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity/?msockid=34fb8cf57967684929b599b578206903).
 
 ---
 
