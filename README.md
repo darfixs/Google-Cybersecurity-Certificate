@@ -53,9 +53,5 @@ This repository gathers study materials for the Google Cybersecurity Professiona
 
 ---
 
-Feel free to explore the materials and contribute if you have suggestions or improvements.
-
-<div align="center">
-  <sub>© 2025 by <a href="https://github.com/darfixs">darfixs</a></sub>
-</div>
-
+Made with 💛 by [darfixs](https://github.com/darfixs)  
+For any questions or feedback, feel free to reach out!
